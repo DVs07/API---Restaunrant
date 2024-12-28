@@ -1,0 +1,100 @@
+{
+    "platos": [
+        {
+            "id": 1,
+            "nombre": "Pizza de muzzarella",
+            "precio": 5500,
+            "categoria": 1
+        },
+        {
+            "id": 2,
+            "nombre": "Pizza de jamon y morron",
+            "precio": 7500,
+            "categoria": 1
+        },
+        {
+            "id": 3,
+            "nombre": "Pizza Napolitana",
+            "precio": 7500,
+            "categoria": 1
+        },
+        {
+            "id": 4,
+            "nombre": "Pizza Fugazzeta",
+            "precio": 30,
+            "categoria": 1
+        },
+        {
+            "id": 5,
+            "nombre": "Pizza de Calabresa",
+            "precio": 15,
+            "categoria": 1
+        },
+        {
+            "id": 6,
+            "nombre": "Milanesa a Caballo",
+            "precio": 7000,
+            "categoria": 1
+        },
+        {
+            "id": 7,
+            "nombre": "Milanesa Napolitana",
+            "precio": 8000,
+            "categoria": 1
+        },
+        {
+            "id": 8,
+            "nombre": "Choripan",
+            "precio": 3500,
+            "categoria": 1
+        },
+        {
+            "id": 9,
+            "nombre": "Coca-Cola de 1L",
+            "precio": 3000,
+            "categoria": 2
+        },
+        {
+            "id": 10,
+            "nombre": "Pinguino de 1L",
+            "precio": 5000,
+            "categoria": 2
+        },
+        {
+            "id": 11,
+            "nombre": "Agua de 1L",
+            "precio": 2000,
+            "categoria": 2
+        },
+        {
+            "id": 12,
+            "nombre": "Ensalada Mixta",
+            "precio": 3000,
+            "categoria": 3
+        },
+        {
+            "id": 13,
+            "nombre": "Guarnicion de Papas Fritas",
+            "precio": 4000,
+            "categoria": 3
+        },
+        {
+            "id": 14,
+            "nombre": "2 bochas de Helado",
+            "precio": 4000,
+            "categoria": 4
+        },
+        {
+            "id": 15,
+            "nombre": "Dulce y queso",
+            "precio": 3000,
+            "categoria": 4
+        },
+        {
+            "id": 16,
+            "nombre": "Flan de Vainilla",
+            "precio": 3000,
+            "categoria": 4
+        }
+    ]
+}
