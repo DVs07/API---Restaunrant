@@ -21,13 +21,13 @@
         {
             "id": 4,
             "nombre": "Pizza Fugazzeta",
-            "precio": 30,
+            "precio": 7500,
             "categoria": 1
         },
         {
             "id": 5,
             "nombre": "Pizza de Calabresa",
-            "precio": 15,
+            "precio": 7500,
             "categoria": 1
         },
         {
